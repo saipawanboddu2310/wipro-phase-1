@@ -1,0 +1,14 @@
+D:\Wipro\day 1\Day 9\ThreadExample\bin\Debug\net9.0\ThreadExample.exe
+D:\Wipro\day 1\Day 9\ThreadExample\bin\Debug\net9.0\ThreadExample.deps.json
+D:\Wipro\day 1\Day 9\ThreadExample\bin\Debug\net9.0\ThreadExample.runtimeconfig.json
+D:\Wipro\day 1\Day 9\ThreadExample\bin\Debug\net9.0\ThreadExample.dll
+D:\Wipro\day 1\Day 9\ThreadExample\bin\Debug\net9.0\ThreadExample.pdb
+D:\Wipro\day 1\Day 9\ThreadExample\obj\Debug\net9.0\ThreadExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro\day 1\Day 9\ThreadExample\obj\Debug\net9.0\ThreadExample.AssemblyInfoInputs.cache
+D:\Wipro\day 1\Day 9\ThreadExample\obj\Debug\net9.0\ThreadExample.AssemblyInfo.cs
+D:\Wipro\day 1\Day 9\ThreadExample\obj\Debug\net9.0\ThreadExample.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day 9\ThreadExample\obj\Debug\net9.0\ThreadExample.dll
+D:\Wipro\day 1\Day 9\ThreadExample\obj\Debug\net9.0\refint\ThreadExample.dll
+D:\Wipro\day 1\Day 9\ThreadExample\obj\Debug\net9.0\ThreadExample.pdb
+D:\Wipro\day 1\Day 9\ThreadExample\obj\Debug\net9.0\ThreadExample.genruntimeconfig.cache
+D:\Wipro\day 1\Day 9\ThreadExample\obj\Debug\net9.0\ref\ThreadExample.dll

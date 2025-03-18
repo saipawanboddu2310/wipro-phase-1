@@ -1,0 +1,11 @@
+D:\Wipro\day 1\Day 9\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.deps.json
+D:\Wipro\day 1\Day 9\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.dll
+D:\Wipro\day 1\Day 9\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.pdb
+D:\Wipro\day 1\Day 9\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro\day 1\Day 9\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\Wipro\day 1\Day 9\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.AssemblyInfo.cs
+D:\Wipro\day 1\Day 9\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day 9\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.dll
+D:\Wipro\day 1\Day 9\ClassLibrary1\obj\Debug\net9.0\refint\ClassLibrary1.dll
+D:\Wipro\day 1\Day 9\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.pdb
+D:\Wipro\day 1\Day 9\ClassLibrary1\obj\Debug\net9.0\ref\ClassLibrary1.dll

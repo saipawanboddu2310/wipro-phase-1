@@ -1,0 +1,14 @@
+D:\Wipro\day 1\Day 9\indexerdemo\bin\Debug\net9.0\indexerdemo.exe
+D:\Wipro\day 1\Day 9\indexerdemo\bin\Debug\net9.0\indexerdemo.deps.json
+D:\Wipro\day 1\Day 9\indexerdemo\bin\Debug\net9.0\indexerdemo.runtimeconfig.json
+D:\Wipro\day 1\Day 9\indexerdemo\bin\Debug\net9.0\indexerdemo.dll
+D:\Wipro\day 1\Day 9\indexerdemo\bin\Debug\net9.0\indexerdemo.pdb
+D:\Wipro\day 1\Day 9\indexerdemo\obj\Debug\net9.0\indexerdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro\day 1\Day 9\indexerdemo\obj\Debug\net9.0\indexerdemo.AssemblyInfoInputs.cache
+D:\Wipro\day 1\Day 9\indexerdemo\obj\Debug\net9.0\indexerdemo.AssemblyInfo.cs
+D:\Wipro\day 1\Day 9\indexerdemo\obj\Debug\net9.0\indexerdemo.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day 9\indexerdemo\obj\Debug\net9.0\indexerdemo.dll
+D:\Wipro\day 1\Day 9\indexerdemo\obj\Debug\net9.0\refint\indexerdemo.dll
+D:\Wipro\day 1\Day 9\indexerdemo\obj\Debug\net9.0\indexerdemo.pdb
+D:\Wipro\day 1\Day 9\indexerdemo\obj\Debug\net9.0\indexerdemo.genruntimeconfig.cache
+D:\Wipro\day 1\Day 9\indexerdemo\obj\Debug\net9.0\ref\indexerdemo.dll
