@@ -1,0 +1,14 @@
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\bin\Debug\net8.0\Csharp7and8_Expressionbodydemo.exe
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\bin\Debug\net8.0\Csharp7and8_Expressionbodydemo.deps.json
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\bin\Debug\net8.0\Csharp7and8_Expressionbodydemo.runtimeconfig.json
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\bin\Debug\net8.0\Csharp7and8_Expressionbodydemo.dll
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\bin\Debug\net8.0\Csharp7and8_Expressionbodydemo.pdb
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\obj\Debug\net8.0\Csharp7and8_Expressionbodydemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\obj\Debug\net8.0\Csharp7and8_Expressionbodydemo.AssemblyInfoInputs.cache
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\obj\Debug\net8.0\Csharp7and8_Expressionbodydemo.AssemblyInfo.cs
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\obj\Debug\net8.0\Csharp7and8_Expressionbodydemo.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\obj\Debug\net8.0\Csharp7and8_Expressionbodydemo.dll
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\obj\Debug\net8.0\refint\Csharp7and8_Expressionbodydemo.dll
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\obj\Debug\net8.0\Csharp7and8_Expressionbodydemo.pdb
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\obj\Debug\net8.0\Csharp7and8_Expressionbodydemo.genruntimeconfig.cache
+D:\Wipro\day 1\Day8projects\Csharp7and8_Expressionbodydemo\obj\Debug\net8.0\ref\Csharp7and8_Expressionbodydemo.dll

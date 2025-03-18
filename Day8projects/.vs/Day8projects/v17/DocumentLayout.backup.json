@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro\\day 1\\Day8projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19315509-33B3-4291-9A24-6ABCAF3B3617}|ReflectionDemo\\ReflectionDemo.csproj|d:\\wipro\\day 1\\day8projects\\reflectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19315509-33B3-4291-9A24-6ABCAF3B3617}|ReflectionDemo\\ReflectionDemo.csproj|solutionrelative:reflectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D12F61-03FE-416C-8350-D414476092CD}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\wipro\\day 1\\day8projects\\asynchronousdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D12F61-03FE-416C-8350-D414476092CD}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D12F61-03FE-416C-8350-D414476092CD}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\wipro\\day 1\\day8projects\\asynchronousdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06D12F61-03FE-416C-8350-D414476092CD}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381B0B36-5EA4-40E0-A8D6-F623DFF67767}|Csharp7and8_Expressionbodydemo\\Csharp7and8_Expressionbodydemo.csproj|d:\\wipro\\day 1\\day8projects\\csharp7and8_expressionbodydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381B0B36-5EA4-40E0-A8D6-F623DFF67767}|Csharp7and8_Expressionbodydemo\\Csharp7and8_Expressionbodydemo.csproj|solutionrelative:csharp7and8_expressionbodydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BA29AC-C4CC-4157-86CE-71131F06B111}|Csharp\u0026and8features_DiscardDemo\\Csharp\u0026and8features_DiscardDemo.csproj|d:\\wipro\\day 1\\day8projects\\csharp\u0026and8features_discarddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BA29AC-C4CC-4157-86CE-71131F06B111}|Csharp\u0026and8features_DiscardDemo\\Csharp\u0026and8features_DiscardDemo.csproj|solutionrelative:csharp\u0026and8features_discarddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711ABA85-A9AC-4425-B323-9CE2C7EC37F9}|Csharp7and8features_outtypepatterndemo\\Csharp7and8features_outtypepatterndemo.csproj|d:\\wipro\\day 1\\day8projects\\csharp7and8features_outtypepatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711ABA85-A9AC-4425-B323-9CE2C7EC37F9}|Csharp7and8features_outtypepatterndemo\\Csharp7and8features_outtypepatterndemo.csproj|solutionrelative:csharp7and8features_outtypepatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E195020-E8EE-42B1-A2D3-3A3E8FDCEF80}|Csharp7and8Features_Localfunctions\\Csharp7and8Features_Localfunctions.csproj|d:\\wipro\\day 1\\day8projects\\csharp7and8features_localfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E195020-E8EE-42B1-A2D3-3A3E8FDCEF80}|Csharp7and8Features_Localfunctions\\Csharp7and8Features_Localfunctions.csproj|solutionrelative:csharp7and8features_localfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE620C43-EB86-43D3-9AD6-1B1D744EA802}|Csharp7and8features_Patternmatching\\Csharp7and8features_Patternmatching.csproj|d:\\wipro\\day 1\\day8projects\\csharp7and8features_patternmatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE620C43-EB86-43D3-9AD6-1B1D744EA802}|Csharp7and8features_Patternmatching\\Csharp7and8features_Patternmatching.csproj|solutionrelative:csharp7and8features_patternmatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCC1887-4D4C-4146-9844-56C364E24EA6}|CSharp7and8_tuplesanddeconstruction\\CSharp7and8_tuplesanddeconstruction.csproj|d:\\wipro\\day 1\\day8projects\\csharp7and8_tuplesanddeconstruction\\csharp7and8_tuplesanddeconstruction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FCC1887-4D4C-4146-9844-56C364E24EA6}|CSharp7and8_tuplesanddeconstruction\\CSharp7and8_tuplesanddeconstruction.csproj|solutionrelative:csharp7and8_tuplesanddeconstruction\\csharp7and8_tuplesanddeconstruction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCC1887-4D4C-4146-9844-56C364E24EA6}|CSharp7and8_tuplesanddeconstruction\\CSharp7and8_tuplesanddeconstruction.csproj|d:\\wipro\\day 1\\day8projects\\csharp7and8_tuplesanddeconstruction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCC1887-4D4C-4146-9844-56C364E24EA6}|CSharp7and8_tuplesanddeconstruction\\CSharp7and8_tuplesanddeconstruction.csproj|solutionrelative:csharp7and8_tuplesanddeconstruction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A165816-8A52-48EB-8E4E-8B6B3D9B658D}|Mocktestingdemo\\Mocktestingdemo.csproj|d:\\wipro\\day 1\\day8projects\\mocktestingdemo\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A165816-8A52-48EB-8E4E-8B6B3D9B658D}|Mocktestingdemo\\Mocktestingdemo.csproj|solutionrelative:mocktestingdemo\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A165816-8A52-48EB-8E4E-8B6B3D9B658D}|Mocktestingdemo\\Mocktestingdemo.csproj|d:\\wipro\\day 1\\day8projects\\mocktestingdemo\\mocktestingdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A165816-8A52-48EB-8E4E-8B6B3D9B658D}|Mocktestingdemo\\Mocktestingdemo.csproj|solutionrelative:mocktestingdemo\\mocktestingdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E681C6C-2D5A-4A42-B0EC-B73FD16A11CF}|PositiveNegativeEdgeTestCases\\PositiveNegativeEdgeTestCases.csproj|d:\\wipro\\day 1\\day8projects\\positivenegativeedgetestcases\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E681C6C-2D5A-4A42-B0EC-B73FD16A11CF}|PositiveNegativeEdgeTestCases\\PositiveNegativeEdgeTestCases.csproj|solutionrelative:positivenegativeedgetestcases\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682D8AD-8A2F-42F3-8278-5386E7BF53A4}|BankAccTestClass\\BankAccTestClass.csproj|d:\\wipro\\day 1\\day8projects\\bankacctestclass\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682D8AD-8A2F-42F3-8278-5386E7BF53A4}|BankAccTestClass\\BankAccTestClass.csproj|solutionrelative:bankacctestclass\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A165816-8A52-48EB-8E4E-8B6B3D9B658D}|Mocktestingdemo\\Mocktestingdemo.csproj|d:\\wipro\\day 1\\day8projects\\mocktestingdemo\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A165816-8A52-48EB-8E4E-8B6B3D9B658D}|Mocktestingdemo\\Mocktestingdemo.csproj|solutionrelative:mocktestingdemo\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\AsynchronousDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\Form1.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\AsynchronousDemo\\Form1.cs",
+              "RelativeToolTip": "AsynchronousDemo\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:28:31.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\AsynchronousDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\Form1.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\AsynchronousDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "AsynchronousDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:27:35.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\Csharp7and8_Expressionbodydemo\\Program.cs",
+              "RelativeDocumentMoniker": "Csharp7and8_Expressionbodydemo\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\Csharp7and8_Expressionbodydemo\\Program.cs",
+              "RelativeToolTip": "Csharp7and8_Expressionbodydemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:25:07.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\Csharp\u0026and8features_DiscardDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Csharp\u0026and8features_DiscardDemo\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\Csharp\u0026and8features_DiscardDemo\\Program.cs",
+              "RelativeToolTip": "Csharp\u0026and8features_DiscardDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:22:01.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\Csharp7and8features_outtypepatterndemo\\Program.cs",
+              "RelativeDocumentMoniker": "Csharp7and8features_outtypepatterndemo\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\Csharp7and8features_outtypepatterndemo\\Program.cs",
+              "RelativeToolTip": "Csharp7and8features_outtypepatterndemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:16:45.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\Csharp7and8Features_Localfunctions\\Program.cs",
+              "RelativeDocumentMoniker": "Csharp7and8Features_Localfunctions\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\Csharp7and8Features_Localfunctions\\Program.cs",
+              "RelativeToolTip": "Csharp7and8Features_Localfunctions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:14:37.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\Csharp7and8features_Patternmatching\\Program.cs",
+              "RelativeDocumentMoniker": "Csharp7and8features_Patternmatching\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\Csharp7and8features_Patternmatching\\Program.cs",
+              "RelativeToolTip": "Csharp7and8features_Patternmatching\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:11:53.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\ReflectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionDemo\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\ReflectionDemo\\Program.cs",
+              "RelativeToolTip": "ReflectionDemo\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwHsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:51:06.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CSharp7and8_tuplesanddeconstruction",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\CSharp7and8_tuplesanddeconstruction\\CSharp7and8_tuplesanddeconstruction.csproj",
+              "RelativeDocumentMoniker": "CSharp7and8_tuplesanddeconstruction\\CSharp7and8_tuplesanddeconstruction.csproj",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\CSharp7and8_tuplesanddeconstruction\\CSharp7and8_tuplesanddeconstruction.csproj",
+              "RelativeToolTip": "CSharp7and8_tuplesanddeconstruction\\CSharp7and8_tuplesanddeconstruction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T10:10:05.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mocktestingdemo",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\Mocktestingdemo\\Mocktestingdemo.csproj",
+              "RelativeDocumentMoniker": "Mocktestingdemo\\Mocktestingdemo.csproj",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\Mocktestingdemo\\Mocktestingdemo.csproj",
+              "RelativeToolTip": "Mocktestingdemo\\Mocktestingdemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T10:09:18.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\PositiveNegativeEdgeTestCases\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PositiveNegativeEdgeTestCases\\UnitTest1.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\PositiveNegativeEdgeTestCases\\UnitTest1.cs",
+              "RelativeToolTip": "PositiveNegativeEdgeTestCases\\UnitTest1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:05:49.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\BankAccTestClass\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BankAccTestClass\\UnitTest1.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\BankAccTestClass\\UnitTest1.cs",
+              "RelativeToolTip": "BankAccTestClass\\UnitTest1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:51:21.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\CSharp7and8_tuplesanddeconstruction\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp7and8_tuplesanddeconstruction\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\CSharp7and8_tuplesanddeconstruction\\Program.cs",
+              "RelativeToolTip": "CSharp7and8_tuplesanddeconstruction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T05:24:22.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\Mocktestingdemo\\Test1.cs",
+              "RelativeDocumentMoniker": "Mocktestingdemo\\Test1.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\Mocktestingdemo\\Test1.cs",
+              "RelativeToolTip": "Mocktestingdemo\\Test1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:35:34.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\Day8projects\\Mocktestingdemo\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Mocktestingdemo\\MSTestSettings.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\Day8projects\\Mocktestingdemo\\MSTestSettings.cs",
+              "RelativeToolTip": "Mocktestingdemo\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:35:21.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

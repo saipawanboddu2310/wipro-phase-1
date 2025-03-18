@@ -1,0 +1,14 @@
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\bin\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.exe
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\bin\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.deps.json
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\bin\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.runtimeconfig.json
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\bin\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.dll
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\bin\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.pdb
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\obj\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\obj\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.AssemblyInfoInputs.cache
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\obj\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.AssemblyInfo.cs
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\obj\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\obj\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.dll
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\obj\Debug\net8.0\refint\CSharp7and8_tuplesanddeconstruction.dll
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\obj\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.pdb
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\obj\Debug\net8.0\CSharp7and8_tuplesanddeconstruction.genruntimeconfig.cache
+D:\Wipro\day 1\Day8projects\CSharp7and8_tuplesanddeconstruction\obj\Debug\net8.0\ref\CSharp7and8_tuplesanddeconstruction.dll

@@ -1,0 +1,14 @@
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\bin\Debug\net8.0\Csharp7and8features_outtypepatterndemo.exe
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\bin\Debug\net8.0\Csharp7and8features_outtypepatterndemo.deps.json
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\bin\Debug\net8.0\Csharp7and8features_outtypepatterndemo.runtimeconfig.json
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\bin\Debug\net8.0\Csharp7and8features_outtypepatterndemo.dll
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\bin\Debug\net8.0\Csharp7and8features_outtypepatterndemo.pdb
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\obj\Debug\net8.0\Csharp7and8features_outtypepatterndemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\obj\Debug\net8.0\Csharp7and8features_outtypepatterndemo.AssemblyInfoInputs.cache
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\obj\Debug\net8.0\Csharp7and8features_outtypepatterndemo.AssemblyInfo.cs
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\obj\Debug\net8.0\Csharp7and8features_outtypepatterndemo.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\obj\Debug\net8.0\Csharp7and8features_outtypepatterndemo.dll
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\obj\Debug\net8.0\refint\Csharp7and8features_outtypepatterndemo.dll
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\obj\Debug\net8.0\Csharp7and8features_outtypepatterndemo.pdb
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\obj\Debug\net8.0\Csharp7and8features_outtypepatterndemo.genruntimeconfig.cache
+D:\Wipro\day 1\Day8projects\Csharp7and8features_outtypepatterndemo\obj\Debug\net8.0\ref\Csharp7and8features_outtypepatterndemo.dll

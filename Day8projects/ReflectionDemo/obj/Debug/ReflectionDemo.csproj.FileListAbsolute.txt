@@ -1,0 +1,7 @@
+D:\Wipro\day 1\Day8projects\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+D:\Wipro\day 1\Day8projects\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+D:\Wipro\day 1\Day8projects\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+D:\Wipro\day 1\Day8projects\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day8projects\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day8projects\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+D:\Wipro\day 1\Day8projects\ReflectionDemo\obj\Debug\ReflectionDemo.pdb

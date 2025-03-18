@@ -1,0 +1,14 @@
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\bin\Debug\net8.0\Csharp&and8features_DiscardDemo.exe
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\bin\Debug\net8.0\Csharp&and8features_DiscardDemo.deps.json
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\bin\Debug\net8.0\Csharp&and8features_DiscardDemo.runtimeconfig.json
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\bin\Debug\net8.0\Csharp&and8features_DiscardDemo.dll
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\bin\Debug\net8.0\Csharp&and8features_DiscardDemo.pdb
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\obj\Debug\net8.0\Csharp&and8features_DiscardDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\obj\Debug\net8.0\Csharp&and8features_DiscardDemo.AssemblyInfoInputs.cache
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\obj\Debug\net8.0\Csharp&and8features_DiscardDemo.AssemblyInfo.cs
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\obj\Debug\net8.0\Csharp&and8features_DiscardDemo.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\obj\Debug\net8.0\Csharp&and8features_DiscardDemo.dll
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\obj\Debug\net8.0\refint\Csharp&and8features_DiscardDemo.dll
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\obj\Debug\net8.0\Csharp&and8features_DiscardDemo.pdb
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\obj\Debug\net8.0\Csharp&and8features_DiscardDemo.genruntimeconfig.cache
+D:\Wipro\day 1\Day8projects\Csharp&and8features_DiscardDemo\obj\Debug\net8.0\ref\Csharp&and8features_DiscardDemo.dll
