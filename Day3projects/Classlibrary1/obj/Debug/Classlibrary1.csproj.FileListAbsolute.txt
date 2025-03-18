@@ -1,0 +1,6 @@
+D:\Wipro\day 1\Day3projects\Classlibrary1\bin\Debug\Classlibrary1.dll
+D:\Wipro\day 1\Day3projects\Classlibrary1\bin\Debug\Classlibrary1.pdb
+D:\Wipro\day 1\Day3projects\Classlibrary1\obj\Debug\Classlibrary1.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day3projects\Classlibrary1\obj\Debug\Classlibrary1.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day3projects\Classlibrary1\obj\Debug\Classlibrary1.dll
+D:\Wipro\day 1\Day3projects\Classlibrary1\obj\Debug\Classlibrary1.pdb

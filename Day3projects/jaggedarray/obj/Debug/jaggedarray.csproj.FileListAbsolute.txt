@@ -1,0 +1,7 @@
+D:\Wipro\day 1\Day3projects\jaggedarray\obj\Debug\jaggedarray.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day3projects\jaggedarray\obj\Debug\jaggedarray.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day3projects\jaggedarray\bin\Debug\jaggedarray.exe.config
+D:\Wipro\day 1\Day3projects\jaggedarray\bin\Debug\jaggedarray.exe
+D:\Wipro\day 1\Day3projects\jaggedarray\bin\Debug\jaggedarray.pdb
+D:\Wipro\day 1\Day3projects\jaggedarray\obj\Debug\jaggedarray.exe
+D:\Wipro\day 1\Day3projects\jaggedarray\obj\Debug\jaggedarray.pdb

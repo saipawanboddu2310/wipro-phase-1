@@ -1,0 +1,7 @@
+D:\Wipro\day 1\Day3projects\2darraydemos\bin\Debug\2darraydemos.exe.config
+D:\Wipro\day 1\Day3projects\2darraydemos\bin\Debug\2darraydemos.exe
+D:\Wipro\day 1\Day3projects\2darraydemos\bin\Debug\2darraydemos.pdb
+D:\Wipro\day 1\Day3projects\2darraydemos\obj\Debug\2darraydemos.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day3projects\2darraydemos\obj\Debug\2darraydemos.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day3projects\2darraydemos\obj\Debug\2darraydemos.exe
+D:\Wipro\day 1\Day3projects\2darraydemos\obj\Debug\2darraydemos.pdb

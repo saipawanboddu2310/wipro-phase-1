@@ -1,0 +1,10 @@
+D:\Wipro\day 1\Day3projects\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+D:\Wipro\day 1\Day3projects\AccessModifiers\bin\Debug\AccessModifiers.exe
+D:\Wipro\day 1\Day3projects\AccessModifiers\bin\Debug\AccessModifiers.pdb
+D:\Wipro\day 1\Day3projects\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day3projects\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day3projects\AccessModifiers\obj\Debug\AccessModifiers.exe
+D:\Wipro\day 1\Day3projects\AccessModifiers\obj\Debug\AccessModifiers.pdb
+D:\Wipro\day 1\Day3projects\AccessModifiers\bin\Debug\Classlibrary1.dll
+D:\Wipro\day 1\Day3projects\AccessModifiers\bin\Debug\Classlibrary1.pdb
+D:\Wipro\day 1\Day3projects\AccessModifiers\obj\Debug\AccessMo.9C59A510.Up2Date
