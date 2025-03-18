@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro\\day 1\\BoxingandUnboxing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63189848-CF34-4293-90A0-8EDF259805D4}|jumpstatementsdemo\\jumpstatementsdemo.csproj|d:\\wipro\\day 1\\boxingandunboxing\\jumpstatementsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63189848-CF34-4293-90A0-8EDF259805D4}|jumpstatementsdemo\\jumpstatementsdemo.csproj|solutionrelative:jumpstatementsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231F4981-6888-4BF7-9F1B-BDD0BF169C32}|Switchdemo\\Switchdemo.csproj|d:\\wipro\\day 1\\boxingandunboxing\\switchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231F4981-6888-4BF7-9F1B-BDD0BF169C32}|Switchdemo\\Switchdemo.csproj|solutionrelative:switchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4354CD-418C-447C-AB45-F5E2447D4AD9}|loopsdemo\\loopsdemo.csproj|d:\\wipro\\day 1\\boxingandunboxing\\loopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4354CD-418C-447C-AB45-F5E2447D4AD9}|loopsdemo\\loopsdemo.csproj|solutionrelative:loopsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D07877-B679-46CC-90DB-E218C2A6D6D2}|ifdemos\\ifdemos.csproj|d:\\wipro\\day 1\\boxingandunboxing\\ifdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D07877-B679-46CC-90DB-E218C2A6D6D2}|ifdemos\\ifdemos.csproj|solutionrelative:ifdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFAB9AA-659E-4BB4-B8F9-42177BF91D50}|Nullabletypes\\Nullabletypes.csproj|d:\\wipro\\day 1\\boxingandunboxing\\nullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFAB9AA-659E-4BB4-B8F9-42177BF91D50}|Nullabletypes\\Nullabletypes.csproj|solutionrelative:nullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AFE0AA-B2A1-4953-BC0F-90F30EFAFF84}|StringinBuiltfunctions\\StringinBuiltfunctions.csproj|d:\\wipro\\day 1\\boxingandunboxing\\stringinbuiltfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AFE0AA-B2A1-4953-BC0F-90F30EFAFF84}|StringinBuiltfunctions\\StringinBuiltfunctions.csproj|solutionrelative:stringinbuiltfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0CF53-D592-408F-9D23-B1AA81210AE1}|BoxingandUnboxing\\BoxingandUnboxing.csproj|d:\\wipro\\day 1\\boxingandunboxing\\boxingandunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E0CF53-D592-408F-9D23-B1AA81210AE1}|BoxingandUnboxing\\BoxingandUnboxing.csproj|solutionrelative:boxingandunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\BoxingandUnboxing\\jumpstatementsdemo\\Program.cs",
+              "RelativeDocumentMoniker": "jumpstatementsdemo\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\BoxingandUnboxing\\jumpstatementsdemo\\Program.cs",
+              "RelativeToolTip": "jumpstatementsdemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:41:58.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\BoxingandUnboxing\\loopsdemo\\Program.cs",
+              "RelativeDocumentMoniker": "loopsdemo\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\BoxingandUnboxing\\loopsdemo\\Program.cs",
+              "RelativeToolTip": "loopsdemo\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:35:11.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\BoxingandUnboxing\\Switchdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Switchdemo\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\BoxingandUnboxing\\Switchdemo\\Program.cs",
+              "RelativeToolTip": "Switchdemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:04:57.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\BoxingandUnboxing\\ifdemos\\Program.cs",
+              "RelativeDocumentMoniker": "ifdemos\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\BoxingandUnboxing\\ifdemos\\Program.cs",
+              "RelativeToolTip": "ifdemos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T06:31:30.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\BoxingandUnboxing\\Nullabletypes\\Program.cs",
+              "RelativeDocumentMoniker": "Nullabletypes\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\BoxingandUnboxing\\Nullabletypes\\Program.cs",
+              "RelativeToolTip": "Nullabletypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T06:11:23.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\BoxingandUnboxing\\StringinBuiltfunctions\\Program.cs",
+              "RelativeDocumentMoniker": "StringinBuiltfunctions\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\BoxingandUnboxing\\StringinBuiltfunctions\\Program.cs",
+              "RelativeToolTip": "StringinBuiltfunctions\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T04:26:24.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\day 1\\BoxingandUnboxing\\BoxingandUnboxing\\Program.cs",
+              "RelativeDocumentMoniker": "BoxingandUnboxing\\Program.cs",
+              "ToolTip": "D:\\Wipro\\day 1\\BoxingandUnboxing\\BoxingandUnboxing\\Program.cs",
+              "RelativeToolTip": "BoxingandUnboxing\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T04:02:01.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

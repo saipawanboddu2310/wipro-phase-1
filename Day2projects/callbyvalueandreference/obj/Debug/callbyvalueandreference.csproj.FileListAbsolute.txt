@@ -1,0 +1,10 @@
+D:\Wipro\day 1\Day2projects\callbyvalueandreference\bin\Debug\callbyvalueandreference.exe.config
+D:\Wipro\day 1\Day2projects\callbyvalueandreference\bin\Debug\callbyvalueandreference.exe
+D:\Wipro\day 1\Day2projects\callbyvalueandreference\bin\Debug\callbyvalueandreference.pdb
+D:\Wipro\day 1\Day2projects\callbyvalueandreference\obj\Debug\callbyvalueandreference.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day2projects\callbyvalueandreference\obj\Debug\callbyvalueandreference.Form1.resources
+D:\Wipro\day 1\Day2projects\callbyvalueandreference\obj\Debug\callbyvalueandreference.Properties.Resources.resources
+D:\Wipro\day 1\Day2projects\callbyvalueandreference\obj\Debug\callbyvalueandreference.csproj.GenerateResource.cache
+D:\Wipro\day 1\Day2projects\callbyvalueandreference\obj\Debug\callbyvalueandreference.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day2projects\callbyvalueandreference\obj\Debug\callbyvalueandreference.exe
+D:\Wipro\day 1\Day2projects\callbyvalueandreference\obj\Debug\callbyvalueandreference.pdb
