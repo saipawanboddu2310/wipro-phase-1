@@ -1,0 +1,7 @@
+D:\Wipro\day 1\Day7projects\Inbuiltdelegatedemo2\bin\Debug\Inbuiltdelegatedemo2.exe.config
+D:\Wipro\day 1\Day7projects\Inbuiltdelegatedemo2\bin\Debug\Inbuiltdelegatedemo2.exe
+D:\Wipro\day 1\Day7projects\Inbuiltdelegatedemo2\bin\Debug\Inbuiltdelegatedemo2.pdb
+D:\Wipro\day 1\Day7projects\Inbuiltdelegatedemo2\obj\Debug\Inbuiltdelegatedemo2.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day7projects\Inbuiltdelegatedemo2\obj\Debug\Inbuiltdelegatedemo2.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day7projects\Inbuiltdelegatedemo2\obj\Debug\Inbuiltdelegatedemo2.exe
+D:\Wipro\day 1\Day7projects\Inbuiltdelegatedemo2\obj\Debug\Inbuiltdelegatedemo2.pdb

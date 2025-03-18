@@ -1,0 +1,12 @@
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\bin\Debug\net8.0\ArthematicOpsandOther.deps.json
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\bin\Debug\net8.0\ArthematicOpsandOther.pdb
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\obj\Debug\net8.0\ArthematicOpsandOther.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\obj\Debug\net8.0\ArthematicOpsandOther.AssemblyInfoInputs.cache
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\obj\Debug\net8.0\ArthematicOpsandOther.AssemblyInfo.cs
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\obj\Debug\net8.0\ArthematicOpsandOther.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\obj\Debug\net8.0\ArthematicOpsandOther.dll
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\obj\Debug\net8.0\refint\ArthematicOpsandOther.dll
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\obj\Debug\net8.0\ArthematicOpsandOther.pdb
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\obj\Debug\net8.0\ref\ArthematicOpsandOther.dll
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\obj\Debug\net8.0\ArthematicOpsandOther.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day7projects\ArthematicOpsandOther\obj\Debug\net8.0\Arthemat.47CC236B.Up2Date

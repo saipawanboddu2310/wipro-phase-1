@@ -1,0 +1,7 @@
+D:\Wipro\day 1\Day7projects\DictionaryDemo1\obj\Debug\DictionaryDemo1.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day7projects\DictionaryDemo1\obj\Debug\DictionaryDemo1.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day7projects\DictionaryDemo1\bin\Debug\DictionaryDemo1.exe.config
+D:\Wipro\day 1\Day7projects\DictionaryDemo1\bin\Debug\DictionaryDemo1.exe
+D:\Wipro\day 1\Day7projects\DictionaryDemo1\bin\Debug\DictionaryDemo1.pdb
+D:\Wipro\day 1\Day7projects\DictionaryDemo1\obj\Debug\DictionaryDemo1.exe
+D:\Wipro\day 1\Day7projects\DictionaryDemo1\obj\Debug\DictionaryDemo1.pdb

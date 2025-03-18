@@ -1,0 +1,7 @@
+D:\Wipro\day 1\Day7projects\InbuiltDelgatesdemo\bin\Debug\InbuiltDelgatesdemo.exe.config
+D:\Wipro\day 1\Day7projects\InbuiltDelgatesdemo\bin\Debug\InbuiltDelgatesdemo.exe
+D:\Wipro\day 1\Day7projects\InbuiltDelgatesdemo\bin\Debug\InbuiltDelgatesdemo.pdb
+D:\Wipro\day 1\Day7projects\InbuiltDelgatesdemo\obj\Debug\InbuiltDelgatesdemo.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day7projects\InbuiltDelgatesdemo\obj\Debug\InbuiltDelgatesdemo.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day7projects\InbuiltDelgatesdemo\obj\Debug\InbuiltDelgatesdemo.exe
+D:\Wipro\day 1\Day7projects\InbuiltDelgatesdemo\obj\Debug\InbuiltDelgatesdemo.pdb

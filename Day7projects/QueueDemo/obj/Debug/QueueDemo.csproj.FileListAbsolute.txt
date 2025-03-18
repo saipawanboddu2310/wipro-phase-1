@@ -1,0 +1,7 @@
+D:\Wipro\day 1\Day7projects\QueueDemo\bin\Debug\QueueDemo.exe.config
+D:\Wipro\day 1\Day7projects\QueueDemo\bin\Debug\QueueDemo.exe
+D:\Wipro\day 1\Day7projects\QueueDemo\bin\Debug\QueueDemo.pdb
+D:\Wipro\day 1\Day7projects\QueueDemo\obj\Debug\QueueDemo.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day7projects\QueueDemo\obj\Debug\QueueDemo.csproj.CoreCompileInputs.cache
+D:\Wipro\day 1\Day7projects\QueueDemo\obj\Debug\QueueDemo.exe
+D:\Wipro\day 1\Day7projects\QueueDemo\obj\Debug\QueueDemo.pdb

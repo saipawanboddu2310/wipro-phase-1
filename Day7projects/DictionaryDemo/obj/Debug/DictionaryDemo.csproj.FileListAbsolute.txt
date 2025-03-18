@@ -1,0 +1,2 @@
+D:\Wipro\day 1\Day7projects\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.AssemblyReference.cache
+D:\Wipro\day 1\Day7projects\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache
